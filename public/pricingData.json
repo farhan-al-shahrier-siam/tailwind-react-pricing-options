@@ -1,0 +1,53 @@
+{
+  "pricingPlans": [
+    {
+      "id": 1,
+      "name": "Basic Plan",
+      "price": "1200BDT/month",
+      "duration": "1 Month",
+      "features": [
+        "Access to all gym equipment",
+        "Locker facility",
+        "Free Wi-Fi",
+        "1 fitness assessment",
+        "Basic workout guidance",
+        "Access during standard hours (8am - 8pm)",
+        "Drinking water facility"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard Plan",
+      "price": "3000BDT/month",
+      "duration": "3 Months",
+      "features": [
+        "Access to all gym equipment",
+        "Locker & shower facility",
+        "Free Wi-Fi",
+        "3 fitness assessments",
+        "Cardio & strength training programs",
+        "Group classes (Yoga, Zumba, HIIT)",
+        "Diet consultation (1 time)",
+        "Extended hours access (7am - 9pm)"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Premium Plan",
+      "price": "6000BDT/month",
+      "duration": "6 Months",
+      "features": [
+        "Unlimited access to all equipment",
+        "Locker, shower & steam room",
+        "Free Wi-Fi",
+        "Unlimited fitness assessments",
+        "Personal trainer (3 sessions/week)",
+        "Custom workout & diet plan",
+        "All group classes included",
+        "24/7 gym access",
+        "Priority support",
+        "Access to all branches"
+      ]
+    }
+  ]
+}
