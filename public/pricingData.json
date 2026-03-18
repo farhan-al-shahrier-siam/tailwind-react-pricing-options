@@ -36,6 +36,7 @@
       "name": "Premium Plan",
       "price": "6000BDT/month",
       "duration": "6 Months",
+      "popular" : true,
       "features": [
         "Unlimited access to all equipment",
         "Locker, shower & steam room",
